@@ -1,2 +1,0 @@
-ini file 3
-ini menambah fitur di file 3
